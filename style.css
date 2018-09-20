@@ -1,0 +1,33 @@
+
+    *{
+      color: white;
+      background-color: rgb(255, 170, 190);
+      text-align: center;
+    }
+
+#me{
+  color: rgb(255, 241, 50);
+    }
+
+#ben{
+  color: rgb(255, 241, 50);
+}
+
+#copy{
+  color: rgb(255, 241, 50);
+  text-align: left;
+}
+
+#dream{
+  color: "white";
+  text-align: left;
+}
+
+#line{
+  text-align: left;
+}
+
+#ship{
+  color: rgb(255, 241, 50);
+  text-align: left;
+}
